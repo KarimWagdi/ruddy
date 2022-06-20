@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.head{
+    width: 100%;
+    min-height: 900px;
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+nav{
+    background-color:#2CA78B;
+}
+.button{
+    background-color: #F98B69;
+    color: white;
+    border-radius: 0px;
+}
+.head-1{
+    margin-top: 690px;
+}
+.head_2{
+    height: 150px;
+    width: 200px;
+    background-color: #2ca78a75;
+    color: white;
+}
+.head_3{
+    height: 150px;
+    width: 200px;
+    background-color: #F98B6975;
+}
+hr{
+    width: 50%;
+    margin: 20px auto;
+    
+}
+.section-3 hr{
+    width: 100%;
+}
+.first_block{
+    background-color: #2CA78B;
+    color: white;
+}
+.second-block{
+    background-color: #F98B69;
+    color: white;
+}
+.section_4{
+    background-image: url(../images/process-bg.jpg);
+    width: 100%;
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d1{
+    background-image: url(../images/p-bg1.jpg);
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.d2{
+    background-image: url(../images/p-bg2.jpg);
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.d3{
+    background-image: url(../images/p-bg3.jpg);
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.d4{
+    background-image: url(../images/p-bg4.jpg);
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.card{
+    background-color: rgb(192, 190, 190);
+    border-radius: 0px;
+    border: 0px;
+    
+}
+.card_1{
+    background-color: rgb(190, 190, 190);
+    border-radius: 0px;
+    border: 0px;
+}
+.img_card{
+    width: 100%;
+    height: 500px;
+}
+.v1{
+    border: 2px rgb(88, 6, 6) solid;
+    padding: 20px;
+    width: 150px;
+}
+.v2{
+    border: 2px rgb(208, 255, 0) solid;
+    padding: 20px;
+    width: 150px;
+}
+.v3{
+    border: 2px rgb(72, 255, 0) solid;
+    padding: 20px;
+    width: 150px;
+}
+.v4{
+    border: 2px rgb(17, 39, 3) solid;
+    padding: 20px;
+    width: 150px;
+}
+.v5{
+    border: 2px rgb(10, 70, 160) solid;
+    padding: 20px;
+    width: 150px;
+}
+
+.section-5{
+    background-color: #F98B69;
+    color: white;
+}
+.section-5 button{
+    border: 2px white solid;
+    border-radius: 0px;
+    color: white;
+}
+.map{
+    background-color: #F98B69;
+    height: 450px;
+    color: white;
+}
+.last{
+    background: rgb(67, 65, 65);
+}
+.last_1{
+    border-radius: 0px;
+    border: 2px white solid;
+    color: white;
+}
+.card_img{
+    height: 100%;
+    width: 100%;
+}
+.section-3_image{
+    height: 100%;
+}
